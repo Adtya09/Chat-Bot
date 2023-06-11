@@ -34,7 +34,7 @@
 </div>
 
     <script>
-        $SCRIPT_ROOT = {{ request.script_root|tojson }};
+        $SCRIPT_ROOT = "http://localhost:5001/"
     </script>
     <script type="text/javascript" src="{{ url_for('static', filename='app.js') }}"></script>
 

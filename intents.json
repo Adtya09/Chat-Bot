@@ -53,7 +53,8 @@
       ],
       "responses": [
         "We accept VISA, Mastercard and Paypal",
-        "We accept most major credit cards, and Paypal"
+        "We accept most major credit cards, and Paypal",
+        "We accept UPI, CASH, BTC ,VISA, Mastercard and Paypal"
       ]
     },
     {
@@ -65,7 +66,8 @@
       ],
       "responses": [
         "Delivery takes 2-4 days",
-        "Shipping takes 2-4 days"
+        "Shipping takes 2-4 days",
+        "One day delivery with Prime membership."
       ]
     },
     {
@@ -79,6 +81,21 @@
         "Why did the hipster burn his mouth? He drank the coffee before it was cool.",
         "What did the buffalo say when his son left for college? Bison."
       ]
+    },
+    {
+      "tag": "about",
+      "patterns": [
+        "Your name",
+        "who are you",
+        "Do you have a name?",
+        "who is there",
+        "Any one there ?"
+      ],
+      "responses": [
+      "My Name is Raja_G, I am a AI Bot to solve your Query."
+      ]
     }
+
+
   ]
 }
